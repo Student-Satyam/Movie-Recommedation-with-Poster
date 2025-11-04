@@ -1,0 +1,9 @@
+# Movie Recommender App
+
+A simple movie recommendation system built with **Streamlit**.  
+It suggests 5 similar movies based on a selected movie and shows their posters.
+
+## Features
+- Search for any movie.
+- Get 5 similar movie recommendations.
+- View movie posters.
